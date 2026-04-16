@@ -2,6 +2,14 @@
 
 Microservice tổng hợp giọng nói tiếng Việt dùng [OmniVoice](https://github.com/k2-fsa/OmniVoice) với voice cloning. Chạy độc lập qua HTTP API, tích hợp được với bất kỳ backend nào.
 
+## Demo Audio
+
+File âm thanh mẫu kết quả chạy dự án: [example_result.wav](./example_result.wav)
+
+<audio controls src="./example_result.wav">
+  Trình duyệt hoặc nền tảng hiện tại không hỗ trợ phát audio trực tiếp. Bạn có thể mở file từ liên kết bên trên.
+</audio>
+
 **Stack:** Python · FastAPI · OmniVoice · CUDA
 
 ---
