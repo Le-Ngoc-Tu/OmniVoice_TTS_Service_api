@@ -5,4 +5,5 @@ __pycache__/
 venv/
 .venv/
 *.wav
+!example_result.wav
 !voice_sample.wav.example

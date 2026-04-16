@@ -4,11 +4,11 @@ Microservice tổng hợp giọng nói tiếng Việt dùng [OmniVoice](https://
 
 ## Demo Audio
 
-Trang demo audio: https://le-ngoc-tu.github.io/OmniVoice_TTS_Service_api/
+File âm thanh mẫu kết quả chạy dự án: [example_result.wav](./example_result.wav)
 
-File âm thanh mẫu: [example_result.wav](./example_result.wav)
-
-Để nghe trực tiếp trên web, bật GitHub Pages cho branch hiện tại tại `Settings -> Pages`, chọn source là `Deploy from a branch`, rồi chọn root `/`.
+<audio controls src="./example_result.wav">
+  Trình duyệt hoặc nền tảng hiện tại không hỗ trợ phát audio trực tiếp. Bạn có thể mở file từ liên kết bên trên.
+</audio>
 
 **Stack:** Python · FastAPI · OmniVoice · CUDA
 
